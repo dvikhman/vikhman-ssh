@@ -6,6 +6,17 @@ Author: Dmitriy Vikhman
 
 A desktop application for managing servers over SSH and working in a remote shell.
 
+## Screenshots
+
+- [Main application window](screenshots/1.png) — Main interface with the server list, connection log, and terminal panel.
+- [Server connection form](screenshots/2.png) — Creating or editing an SSH profile and connection settings.
+- [Remote terminal session](screenshots/2026-10-14_18-16-54.png) — Active terminal session connected to a remote server with command output.
+- [Remote file browser](screenshots/2026-10-14_18-20-05.png) — Browsing remote directories and managing files on the server.
+- [File transfer actions](screenshots/2026-10-14_18-26-45.png) — Uploading and downloading files between the local machine and the remote host.
+- [Built-in file editor](screenshots/2026-10-14_18-28-47.png) — Editing a text file directly in the app with syntax highlighting.
+- [Sudo / root file access](screenshots/2026-10-14_18-30-44.png) — Accessing remote files with elevated privileges through the SFTP root mode.
+- [Application settings](screenshots/3.png) — Language and application settings screen with interface customization options.
+
 ## Launch
 
 Run the source project on Linux/macOS:
